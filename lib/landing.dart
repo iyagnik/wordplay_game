@@ -12,6 +12,7 @@ class _MyHomePageState extends State<LandingPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: const Color.fromARGB(255, 60, 44, 76),
       body: Stack(
         fit: StackFit.expand,
         children: <Widget>[
