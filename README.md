@@ -19,11 +19,13 @@ Wordplay Game is a fun and challenging word guessing game built using Flutter. T
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1145069502418124861/1145069641941663894/image.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1145069502418124861/1145355292784214077/image.png)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1145069502418124861/1145069706831745194/image.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1145069502418124861/1145355600469962882/image.png)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1145069502418124861/1145069929972895914/image.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1145069502418124861/1145359354183307304/image.png)
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1145069502418124861/1145359453563138191/image.png)
 
 ## Installation
 
