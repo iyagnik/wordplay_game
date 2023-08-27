@@ -1,7 +1,6 @@
 // game.dart
 
 import 'package:flutter/material.dart';
-import 'package:wordsplay_demo/words.dart';
 import 'game_state.dart';
 import 'guess_word_form.dart';
 import 'score_display.dart';
@@ -48,7 +47,7 @@ class _GamePageState extends State<GamePage> {
   bool isGameOver = false;
 
   void _makeGuess(String value) {
-    if (all_words.contains(value)) {
+    if (value == _gameState.word) {
       // Update score and level
       _gameState = _gameState.copyWith(
         score: _gameState.score + 1,
